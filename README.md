@@ -5,4 +5,5 @@ Alunos:
 
 Romulo
 Rocy
-Pedro
+Pedro 
+Lucas
